@@ -15,33 +15,33 @@
 
 ## Work Experience
 #### Data Science Manager @ Philips (Apr 2020 – Dec 2022)
-- Developed Philips’s first In-house Data Science Workbench for the Marketing Data Science Team capable of Market Mix Modelling, short-term forecasting, and Promo Effectiveness Evaluation saving 1.25 million EUR in productivity costs
-- Implemented a custom Bayesian Marketing Mix approach and integrated with data science workbench for scalability using Stan, Python and R reducing attribution error by 20%
-- Created a Marketing Simulator Framework which gives ROI and media spend allocation recommendations to campaign managers for allocation of budget to different media channels improving sales of personal care segment by 6%
-- Implemented a short-term forecasting solution to estimate demand of personal care products
-- Automated data pipelines and back-end data update for dashboards improving productivity by 70%
+- Developed Philips’s first In-house Data Science Workbench for the Marketing Data Science Team capable of Market Mix Modelling, short-term forecasting, and Promo Effectiveness Evaluation saving 1.25 million EUR in productivity costs.
+- Implemented a custom Bayesian Marketing Mix approach and integrated with data science workbench for scalability using Stan, Python and R reducing attribution error by 20%.
+- Created a Marketing Simulator Framework which gives ROI and media spend allocation recommendations to campaign managers for allocation of budget to different media channels improving sales of personal care segment by 6%.
+- Implemented a short-term forecasting solution to estimate demand of personal care products.
+- Automated data pipelines and back-end data update for dashboards improving productivity by 70%.
 
 #### Apprentice Leader | Decision Scientist @ Mu Sigma (Oct 2016 - Apr 2020)
-- Supervised a team of five decision scientists to evaluate a set of AutoML products and recommend the product which fits best to the client’s team based on their infrastructure and project requirements reducing the time for model development and deployment by 50%
-- Led a team of two analysts to develop a predictive solution for generating optimized payment plans for an Architectural Engineering firm based out of Japan, to manage working capital efficiently and reducing 80% human effort
-- Identified the bottlenecks in the port operations of an Australian mining MNC in Pilbara and prototyped a predictive solution to estimate the vessel fill percentage increasing yearly throughput by 6 MTPA
-- Analyzed the data of ore handling plant to identify potential bottlenecks and scope future projects
-- Built a prototype Demand Sensing solution for an AC manufacturer for Japanese market, improving forecast accuracy from 65% to 80%. Built a dashboard on R-Shiny to enable the consumption of forecasts
-- Mentored new inductees on machine learning and reviewed their mock projects
-- Improved the demand planning process of a Medical Device manufacturer by minimizing back orders and saved 15million USD by building a demand forecasting solution for global supply and operational planning team
-- Reduced the refresh time of the framework by 70% and facilitated cross-collaboration for the adoption of forecasts in the planning process
+- Supervised a team of five decision scientists to evaluate a set of AutoML products and recommend the product which fits best to the client’s team based on their infrastructure and project requirements reducing the time for model development and deployment by 50%.
+- Led a team of two analysts to develop a predictive solution for generating optimized payment plans for an Architectural Engineering firm based out of Japan, to manage working capital efficiently and reducing 80% human effort.
+- Identified the bottlenecks in the port operations of an Australian mining MNC in Pilbara and prototyped a predictive solution to estimate the vessel fill percentage increasing yearly throughput by 6 MTPA.
+- Analyzed the data of ore handling plant to identify potential bottlenecks and scope future projects.
+- Built a prototype Demand Sensing solution for an AC manufacturer for Japanese market, improving forecast accuracy from 65% to 80%. Built a dashboard on R-Shiny to enable the consumption of forecasts.
+- Mentored new inductees on machine learning and reviewed their mock projects.
+- Improved the demand planning process of a Medical Device manufacturer by minimizing back orders and saved 15million USD by building a demand forecasting solution for global supply and operational planning team.
+- Reduced the refresh time of the framework by 70% and facilitated cross-collaboration for the adoption of forecasts in the planning process.
 
 #### Freelance Project
-- Developed a machine learning pipeline to collect the OHCL, fundamentals and ratings data from intrinio and predict the next day stock market predictions and incorporated in algorithmic trading logic
-- Created and tested multiple trading strategies in quantopian beating the baseline strategies and deployed algorithmic trading decision pipeline in alpaca used for live trading hosted on GCP
+- Developed a machine learning pipeline to collect the OHCL, fundamentals and ratings data from intrinio and predict the next day stock market predictions and incorporated in algorithmic trading logic.
+- Created and tested multiple trading strategies in quantopian beating the baseline strategies and deployed algorithmic trading decision pipeline in alpaca used for live trading hosted on GCP.
 
 ## Academic Projects
 #### SLAM in Space
-- Examining terrestrial SLAM methods in a variety of space environments - planets, asteroids, moon, mars, etc. to find a methodological breakdown of shortcomings and areas of improvement in the field of space navigation/vision
+- Examining terrestrial SLAM methods in a variety of space environments - planets, asteroids, moon, mars, etc. to find a methodological breakdown of shortcomings and areas of improvement in the field of space navigation/vision.
 #### RL Agents for Firs Person Shooter games
 - Utilized reinforcement learning algorithms (DQN, DDQN, A3C, PPO) within the context of visual learning to evaluate their efficacy in developing intelligent bots for first-person shooter games. Leveraged the classic game environment of Doom as a testbed to assess the feasibility of creating bots capable of human-like behavior with varying difficulty levels.
 ####  Weed Detection among Crops for mobile devices
-- Bench-marked Mobile-Net and Efficient-Net architectures using pytorch for detecting weeds among crops deployable on mobile devices
+- Bench-marked Mobile-Net and Efficient-Net architectures using pytorch for detecting weeds among crops deployable on mobile devices.
 
 ## Notable Kaggle Projects
 - Avito Demand Prediction Challenge: Built a multi-modal pipeline to predict demand for an online advertisement (Top-2.5% | 45/1868)
@@ -58,3 +58,9 @@
 - Presented with SPOT Award for taking complete ownership of the forecasting process and driving value to the clients
 - Attained a personal best ranking in the top 0.3% among Kaggle competitors, showcasing exceptional problem-solving abilities and proficiency in data science.
 - Ranked within the top 2% of candidates in the All India Engineering Examination - 2012.
+
+## Hobbies
+- Delving deeply into philosophical topics such as the meaning of life, existence, the human experience, and human potential.
+- Exploring different music genres and playing guitar.
+- Exploring various meditation techniques tailored to different situations.
+- Reading books and sketching.
