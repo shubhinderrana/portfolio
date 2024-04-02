@@ -35,7 +35,6 @@
 - Developed a machine learning pipeline to collect the OHCL, fundamentals and ratings data from intrinio and predict the next day stock market predictions and incorporated in algorithmic trading logic
 - Created and tested multiple trading strategies in quantopian beating the baseline strategies and deployed algorithmic trading decision pipeline in alpaca used for live trading hosted on GCP
 
-
 ## Academic Projects
 #### SLAM in Space
 - Examining terrestrial SLAM methods in a variety of space environments - planets, asteroids, moon, mars, etc. to find a methodological breakdown of shortcomings and areas of improvement in the field of space navigation/vision
@@ -54,3 +53,8 @@
 - Quora Insincere Questions Classification: Developed a Bi-LSTM attention model to classify toxic content to improve online conversations (Top-7% | 275/4037)
 - Google Analytics Customer Revenue Prediction: Created a statistical model to predict the total revenue of a customer visiting google store (Top-8% | 279/3611)
 - Predicting Molecular Properties: Developed a ML pipeline to measure the magnetic interactions between a pair of atoms (Top-9% | 252/2737)
+
+## Achievements
+- Presented with SPOT Award for taking complete ownership of the forecasting process and driving value to the clients
+- Attained a personal best ranking in the top 0.3% among Kaggle competitors, showcasing exceptional problem-solving abilities and proficiency in data science.
+- Ranked within the top 2% of candidates in the All India Engineering Examination - 2012.
