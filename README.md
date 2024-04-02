@@ -46,7 +46,7 @@
 - Bench-marked Mobile-Net and Efficient-Net architectures using pytorch for detecting weeds among crops deployable on mobile devices.
 
 ## Notable Kaggle Projects
-- [Avito Demand Prediction Challenge](https://www.kaggle.com/competitions/avito-demand-prediction): Built a multi-modal pipeline to predict demand for an online advertisement            (Top-2.5% | 45/1868)
+- [Avito Demand Prediction Challenge](https://www.kaggle.com/competitions/avito-demand-prediction): Built a multi-modal pipeline to predict demand for an online advertisement <p align="right">(Top-2.5% | 45/1868)<p>
 - [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk): Developed a ML model to predict the default risk of repaying the loan utilizing applicants data, bureau data, payments data, POS data, credit card and previous applications information            (Top-4% | 300/7176) 
 - [Generative Dog Images](https://www.kaggle.com/competitions/generative-dog-images): Built a generative model to create puppy images            (Top 10% | 98/927)
 - [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge): Created an object detection model to detect pneumonia in medical X-rays            (Top-7% | 110/1499)
