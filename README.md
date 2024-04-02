@@ -10,8 +10,8 @@
 - Domain Exposure: Marketing, Suppy Chain, Finance
 
 ## Education
-- Masters in Engineering Sciences - Data Science | University at Buffalo (Jan 2023 - May 2024)
-- Bachelors of Technology in Electronics & Communication Engineering | National Institute of Technology, Hamirpur (Jul 2012 - May 2016)
+- Masters in Engineering Sciences - Data Science | University at Buffalo (_Jan 2023_ - _May 2024_)
+- B.Tech in Electronics & Communication Engineering | National Institute of Technology, Hamirpur (_Jul 2012_ - _May 2016_)
 
 ## Work Experience
 #### Data Science Manager @ Philips (Apr 2020 – Dec 2022)
@@ -38,21 +38,23 @@
 ## Academic Projects
 #### SLAM in Space
 - Examining terrestrial SLAM methods in a variety of space environments - planets, asteroids, moon, mars, etc. to find a methodological breakdown of shortcomings and areas of improvement in the field of space navigation/vision.
+
 #### RL Agents for Firs Person Shooter games
 - Utilized reinforcement learning algorithms (DQN, DDQN, A3C, PPO) within the context of visual learning to evaluate their efficacy in developing intelligent bots for first-person shooter games. Leveraged the classic game environment of Doom as a testbed to assess the feasibility of creating bots capable of human-like behavior with varying difficulty levels.
+
 ####  Weed Detection among Crops for mobile devices
 - Bench-marked Mobile-Net and Efficient-Net architectures using pytorch for detecting weeds among crops deployable on mobile devices.
 
 ## Notable Kaggle Projects
-- Avito Demand Prediction Challenge: Built a multi-modal pipeline to predict demand for an online advertisement (Top-2.5% | 45/1868)
-- Home Credit Default Risk: Developed a ML model to predict the default risk of repaying the loan utilizing applicants data, bureau data, payments data, POS data, credit card and previous applications information (Top-4% | 300/7176) 
-- Generative Dog Images: Built a generative model to create puppy images (Top 10% | 98/927)
-- RSNA Pneumonia Detection Challenge: Created an object detection model to detect pneumonia in medical X-rays (Top-7% | 110/1499)
+- Avito Demand Prediction Challenge: Built a multi-modal pipeline to predict demand for an online advertisement  (Top-2.5% | 45/1868)
+- Home Credit Default Risk: Developed a ML model to predict the default risk of repaying the loan utilizing applicants data, bureau data, payments data, POS data, credit card and previous applications information  (Top-4% | 300/7176) 
+- Generative Dog Images: Built a generative model to create puppy images  (Top 10% | 98/927)
+- RSNA Pneumonia Detection Challenge: Created an object detection model to detect pneumonia in medical X-rays  (Top-7% | 110/1499)
 - Two Sigma: Using News to Predict Stock Movements: Predicted confidence value in stocks utilizing OHCL and news data with asset performance scored on live data for five months (Top-6.5% | 188/2927)
-- Santander Value Prediction Challenge: Devlopeb a machine learning model to predict the value of transaction for potention customers (Top-6% | 275/4463)
-- Quora Insincere Questions Classification: Developed a Bi-LSTM attention model to classify toxic content to improve online conversations (Top-7% | 275/4037)
-- Google Analytics Customer Revenue Prediction: Created a statistical model to predict the total revenue of a customer visiting google store (Top-8% | 279/3611)
-- Predicting Molecular Properties: Developed a ML pipeline to measure the magnetic interactions between a pair of atoms (Top-9% | 252/2737)
+- Santander Value Prediction Challenge: Devlopeb a machine learning model to predict the value of transaction for potention customers  (Top-6% | 275/4463)
+- Quora Insincere Questions Classification: Developed a Bi-LSTM attention model to classify toxic content to improve online conversations  (Top-7% | 275/4037)
+- Google Analytics Customer Revenue Prediction: Created a statistical model to predict the total revenue of a customer visiting google store  (Top-8% | 279/3611)
+- Predicting Molecular Properties: Developed a ML pipeline to measure the magnetic interactions between a pair of atoms  (Top-9% | 252/2737)
 
 ## Achievements
 - Presented with SPOT Award for taking complete ownership of the forecasting process and driving value to the clients
