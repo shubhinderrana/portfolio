@@ -39,7 +39,7 @@
 #### SLAM in Space
 - Examining terrestrial SLAM methods in a variety of space environments - planets, asteroids, moon, mars, etc. to find a methodological breakdown of shortcomings and areas of improvement in the field of space navigation/vision.
 
-#### RL Agents for Firs Person Shooter games
+#### RL Agents for First Person Shooter games
 - Utilized reinforcement learning algorithms (DQN, DDQN, A3C, PPO) within the context of visual learning to evaluate their efficacy in developing intelligent bots for first-person shooter games. Leveraged the classic game environment of Doom as a testbed to assess the feasibility of creating bots capable of human-like behavior with varying difficulty levels.
 
 ####  Weed Detection among Crops for mobile devices
