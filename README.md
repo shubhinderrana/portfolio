@@ -28,7 +28,7 @@
 - Analyzed the data of ore handling plant to identify potential bottlenecks and scope future projects.
 - Built a prototype Demand Sensing solution for an AC manufacturer for Japanese market, improving forecast accuracy from 65% to 80%. Built a dashboard on R-Shiny to enable the consumption of forecasts.
 - Mentored new inductees on machine learning and reviewed their mock projects.
-- Improved the demand planning process of a Medical Device manufacturer by minimizing back orders and saved 15million USD by building a demand forecasting solution for global supply and operational planning team.
+- Improved the demand planning process of a Medical Device manufacturer by minimizing back orders and saved 9million USD by building a demand forecasting solution for global supply and operational planning team.
 - Reduced the refresh time of the framework by 70% and facilitated cross-collaboration for the adoption of forecasts in the planning process.
 
 #### Freelance Project
