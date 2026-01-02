@@ -15,7 +15,7 @@
 
 ## Work Experience
 
-#### Data Science Manager @ Blend360 | Walmart (Apr 2020 – Dec 2022)
+#### Data Science Manager @ Blend360 | Walmart (Aug 2024 – Present)
 - Developed data and bayesian model pipelines to measure impact of marketing activity categories on high value actions like new app signups, scheduled delivery, etc.
 - Democratized insights from model results assisting stakeholders to take informed decisions
 - Enhanced Channel x Business Unit Marketing Mix model to further provide attributions for marketing campaign categories assisting stakeholders to optimize spend for each category for a Fortune-5 Retailer
