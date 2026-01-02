@@ -14,6 +14,13 @@
 - B.Tech in Electronics & Communication Engineering | National Institute of Technology, Hamirpur (_Jul 2012_ - _May 2016_)
 
 ## Work Experience
+
+#### Data Science Manager @ Blend360 | Walmart (Apr 2020 – Dec 2022)
+- Developed data and bayesian model pipelines to measure impact of marketing activity categories on high value actions like new app signups, scheduled delivery, etc.
+- Democratized insights from model results assisting stakeholders to take informed decisions
+- Enhanced Channel x Business Unit Marketing Mix model to further provide attributions for marketing campaign categories assisting stakeholders to optimize spend for each category for a Fortune-5 Retailer
+- Mentored and trained reportees on data science helping them evolve their careers and grow as seasoned professionals
+
 #### Data Science Manager @ Philips (Apr 2020 – Dec 2022)
 - Developed Philips’s first In-house Data Science Workbench for the Marketing Data Science Team capable of Market Mix Modelling, short-term forecasting, and Promo Effectiveness Evaluation saving 1.25 million EUR in productivity costs.
 - Implemented a custom Bayesian Marketing Mix approach and integrated with data science workbench for scalability using Stan, Python and R reducing attribution error by 20%.
